@@ -1,0 +1,8 @@
+- 这里是心梦的GitHub主页，用英语可以叫我Wizard，是一名在读本科生
+- This is the GitHub homepage of Xinmeng, and I can be called Wizard in English, and I am an undergraduate student.
+- 本人专业方向为理论化学，目前主要在了解非绝热量子动力学，主要任务是进一步学习相关理论
+- I specialize in theoretical chemistry, and my current focus is on understanding the dynamics of non-adiabatic molecules, and my main task is to further study related theories
+- 你可以通过我的gmail邮箱联系我：wangwizard@gmail.com
+- You can contact me at my gmail address: wangwizard@gmail.com
+- 另一个兴趣是量子化学程序的编写，我并不希望做一个只能使用别人程序的player，理论需要有足够的实践
+- Another interest is the writing of quantum chemistry programs, I don't want to be a player who can only use other people's programs, the theory needs to have enough practice
